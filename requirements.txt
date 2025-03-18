@@ -5,3 +5,4 @@ scikit-learn
 unidecode
 xgboost
 fastapi
+uvicorn
