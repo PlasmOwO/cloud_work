@@ -9,7 +9,7 @@ window.onload = function() {
 
 
   // Create a new WebSocket.
-  var socket = new WebSocket('http://127.0.0.1:7890/ws/Tferomageu');
+  var socket = new WebSocket('http://15.188.75.20:7890/ws/testArea');
 
 
   // Handle any errors that occur.
